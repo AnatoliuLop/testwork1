@@ -1,0 +1,16 @@
+
+.f{
+    height: 230px;
+    width:320px ;
+    border: 1px black solid;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+.s{
+ justify-content: space-between;
+}
+.tr{
+    justify-content: center;
+}
+
